@@ -1,0 +1,39 @@
+.buttonlink {
+    -moz-box-shadow:inset 0px 1px 49px -1px #f4cafc;
+    -webkit-box-shadow:inset 0px 1px 49px -1px #f4cafc;
+    box-shadow:inset 0px 1px 49px -1px #f4cafc;
+    background-color:transparent;
+    -webkit-border-top-left-radius:42px;
+    -moz-border-radius-topleft:42px;
+    border-top-left-radius:42px;
+    -webkit-border-top-right-radius:0px;
+    -moz-border-radius-topright:0px;
+    border-top-right-radius:0px;
+    -webkit-border-bottom-right-radius:42px;
+    -moz-border-radius-bottomright:42px;
+    border-bottom-right-radius:42px;
+    -webkit-border-bottom-left-radius:0px;
+    -moz-border-radius-bottomleft:0px;
+    border-bottom-left-radius:0px;
+    text-indent:0px;
+    border:5px solid #dd5df4;
+    display:inline-block;
+    color:#ffffff;
+    font-family:Comic Sans MS;
+    font-size:27px;
+    font-weight:bold;
+    font-style:normal;
+    height:60px;
+    line-height:60px;
+    width:130px;
+    text-decoration:none;
+    text-align:center;
+    text-shadow:1px 1px 0px #b63dcc;
+}.buttonlink:active {
+    position:relative;
+    top:1px;
+}
+.buttonlink:hover {
+    position:relative;
+    color: #f2d9e6;
+}
